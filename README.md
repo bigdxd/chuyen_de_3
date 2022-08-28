@@ -5,3 +5,5 @@
 ![image](https://user-images.githubusercontent.com/65650019/187086607-ff117698-57cc-4175-bf0b-072b89d80b23.png)
 # Kiểm tra xem đã cài git về pc chưa
 ![image](https://user-images.githubusercontent.com/65650019/187086756-9ab2d214-e652-4f03-9846-f650b9d72a99.png)
+# chạy lệnh git clone https://github.com/bigdxd/chuyen_de_3
+![image](https://user-images.githubusercontent.com/65650019/187086888-f888ea08-7214-4427-a84e-9dc503ddf259.png)
